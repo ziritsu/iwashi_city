@@ -2,16 +2,16 @@
 
 ## Dependencies
 
-* VRCSDK 2018.11.05.17.42_Public
+* VRCSDK 2018.11.05.17.42_Public  
 https://www.vrchat.net/download/sdk
-* Standard Assets 1.1.5
+* Standard Assets 1.1.5  
 https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351
-* Post Processing Stack 1.0.4
+* Post Processing Stack 1.0.4  
 https://assetstore.unity.com/packages/essentials/post-processing-stack-83912
-* Sci-Fi Styled Modular Pack 1.0 
-Please change to old AssetStore when importing.
+* Sci-Fi Styled Modular Pack 1.0  
+Please change to old AssetStore when importing.  
 https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913
-* イワシ 1.2.1
+* イワシ 1.2.1  
 https://assetstore.unity.com/packages/3d/characters/animals/sardine-37963
 
 

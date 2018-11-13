@@ -34,3 +34,12 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+Assets/Plugins.meta
+Assets/Plugins/VRCSDK*
+Assets/PostProcessing*
+Assets/SampleScenes*
+Assets/Sardine*
+Assets/Sci-Fi Styled Modular Pack*
+Assets/Standard Assets*
+Assets/VRCSDK*

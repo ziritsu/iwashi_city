@@ -1,0 +1,3 @@
+[submodule "Assets/iws/iwashi_tataki"]
+	path = Assets/iws/iwashi_tataki
+	url = https://github.com/ikuko/iwashi_tataki.git

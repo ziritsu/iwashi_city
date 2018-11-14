@@ -1,0 +1,1 @@
+https://github.com/naqtn/ProgrammingInVRChat/tree/master/unity/DigAndAnnotate/Assets/iwsd_vrc/Prefabs/iwsdPanorama

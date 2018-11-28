@@ -13,8 +13,6 @@ Please change to old AssetStore when importing.
 https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913
 * イワシ 1.2.1  
 https://assetstore.unity.com/packages/3d/characters/animals/sardine-37963
-* VRCPrefab Toybox V2.1  
-https://twitter.com/JasonL663/status/1012799892425588736
 
 
 ## Authors
